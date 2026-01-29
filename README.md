@@ -1,2 +1,2 @@
 # Web-dev
-This repository contains web development projects, including personal projects and college assignments. It serves as a portfolio of my progress in front-end and back-end technologies.
+This repository contains a collection of foundational web development projects created during my learning journey in web development. The projects focus on building a strong understanding of core technologies, including HTML, CSS, and JavaScript.
